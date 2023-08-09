@@ -15,3 +15,9 @@ data.json and add functionality to your program to work with a file instead of
 real api endpoint
  Make sure your program supports multiple country codes as input
  Be ready to demo execution of your program in the terminal
+
+
+Solution - 
+
+Created a python code for county lookup service - lookup_requests.py
+Terminal commands to get the desired output are present in - terminal commands
