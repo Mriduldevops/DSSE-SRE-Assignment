@@ -1,0 +1,4 @@
+To look up a single country code: python lookup_requests.py --countryCode=AU
+To look up multiple country codes: python lookup_requests.py --countryCode AU US CA
+To save API data to a file: python lookup_requests.py --countryCode AU US --saveToFile=data.json
+To load API data from a file: python lookup_requests.py --loadFromFile=data.json
