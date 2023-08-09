@@ -21,3 +21,10 @@ Solution -
 
 Created a python code for county lookup service - lookup_requests.py
 Terminal commands to get the desired output are present in - terminal commands
+
+This program is like a digital assistant for the Accounting team. They want to quickly find country names based on country codes instead of using a manual website. The program does this for them.
+
+It talks to an online service (API) that has a list of countries and their codes.
+The team can tell the program a country code, and it will tell them the country name. For example, if they say "AU," it will reply "Australia."
+The program can save the list of countries and codes to a file, so the team doesn't have to go online every time. It's like saving notes on your computer.
+The program also knows how to read the saved list from the file.
